@@ -1,0 +1,15 @@
+lang:pt_br
+guiScale:0
+fullscreen:false
+renderDistance:6
+simulationDistance:5
+graphicsMode:0
+ao:false
+particles:2
+entityShadows:false
+maxFps:60
+biomeBlendRadius:0
+mipmapLevels:0
+enableVsync:false
+bobView:false
+screenEffectScale:0.0
