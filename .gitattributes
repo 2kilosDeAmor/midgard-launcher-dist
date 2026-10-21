@@ -1,3 +1,9 @@
 * text=auto
+
+# Arquivos entregues ao cliente: o distribution.json grava o tamanho em bytes
+# deles (CRLF). Sem conversao de fim de linha, o clone continua batendo.
+servers/*/files/** -text
+
+# Binarios: nunca converter
 *.jar binary
 *.png binary
